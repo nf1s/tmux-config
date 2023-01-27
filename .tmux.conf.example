@@ -1,1 +1,2 @@
-source-file $HOME/.config/tmux/config.d/tmux.conf.common
+source-file $HOME/.config/tmux/config.d/common.tmux.conf
+
